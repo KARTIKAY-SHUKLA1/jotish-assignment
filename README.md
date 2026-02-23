@@ -4,9 +4,9 @@
 A polished, production-grade employee management portal built for the Jotish Frontend Internship Assignment.
 
 ---
-## 🌐 Live Demo
+##  Live Application
 
-🔗 https://your-vercel-link.vercel.app  
+🔗 https://jotish-assignment-iv11.vercel.app/ 
 
 > **Login credentials:**  
 > Username: `testuser`  
@@ -14,13 +14,13 @@ A polished, production-grade employee management portal built for the Jotish Fro
 
 ---
 
-## 🎥 Demo Video
+##  Demo Video
 
-📺 Watch the full project walkthrough here:  
+ Watch the full project walkthrough here:  
 👉 https://drive.google.com/file/d/12SkK9htBG3qAZmLF0YghlJ-R8XHLCrEi/view?usp=sharing
 
 
-## 📱 Screens
+##  Screens
 
 | Screen | Description |
 |--------|-------------|
@@ -70,7 +70,7 @@ src/
 
 ---
 
-## ⚙️ Setup & Run
+##  Setup & Run
 
 ```bash
 # 1. Clone the repo
@@ -88,7 +88,7 @@ App runs at **http://localhost:3000**
 
 ---
 
-## 🔌 API
+##  API
 
 **Endpoint:** `POST https://backend.jotish.in/backend_dev/gettabledata.php`
 
@@ -100,7 +100,7 @@ The app fetches live data from this API and falls back to mock data if unavailab
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - 🔐 **Auth guard** — Protected routes, session-based login
 - 🔍 **Real-time search** — Filter by name, city, email
@@ -113,7 +113,7 @@ The app fetches live data from this API and falls back to mock data if unavailab
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 See the `/screenshots` folder for all screen captures.
 
